@@ -8,7 +8,7 @@ int main()
 
     for(i=1; i<=n; i++)
     {
-        printf("%d . Moinul Islam Rehan\n", i);
+        printf("%d . moinulrehan\n", i);
     }
 return 0;
 }
